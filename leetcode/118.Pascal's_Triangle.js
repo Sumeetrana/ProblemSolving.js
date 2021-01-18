@@ -4,7 +4,7 @@
  */
 var generate = function (numRows) {
   var triangle = [];
-  if (numows === 0) {
+  if (numRows === 0) {
     return triangle;
   }
   var first_row = [1];
